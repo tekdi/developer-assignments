@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "parent": 0,
+    "name": "Electronics",
+    "children": [
+      {
+        "id": 2,
+        "parent": 1,
+        "name": "Mobile Phones"
+      },
+      {
+        "id": 3,
+        "parent": 1,
+        "name": "Laptops"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "parent": 0,
+    "name": "Books",
+    "children": [
+      {
+        "id": 5,
+        "parent": 4,
+        "name": "Fiction"
+      },
+      {
+        "id": 6,
+        "parent": 4,
+        "name": "Non-fiction"
+      }
+    ]
+  }
+]
