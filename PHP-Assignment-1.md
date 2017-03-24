@@ -19,19 +19,16 @@ Assessment Criteria
 
 
 ## Deliverable
-The completed assignment should be emailed to use. You can email the assignment in any of the below methods.
+The completed assignment should be emailed to use. You can share the assignment in any of the below methods.
 
 ### Preferred Mode
 Host the application on heroku.com using the free plan. Email us the the link for the application.
 
-### Alternate Mode 1
+### Alternate Method
 You should preferably commit the PHP code and sql file to a repository on github.com and send us the link to the repository. 
-
-### Alternate Mode 2
-Otherwise, you can attach a zip file containing the code and sql file. 
 
 -----------------------
 
-The completed assignment should be sent to recruit@tekditechnologies.com with the subject line PHP Developer Assignment 1
+The completed assignment should be shared with recruit@tekditechnologies.com with the subject line PHP Developer Assignment 1
 
 In the email, also include the approximate number of hours you spent for this assignment.
