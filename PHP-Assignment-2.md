@@ -8,22 +8,18 @@ We want you to write PHP code that converts [this flattened JSON](files/assignme
 
 Assessment Criteria
 - Code quality of the PHP
-- 
+- Flexibility in using the code for variations in the JSON structure
 
 ## Deliverable
-The completed assignment should be emailed to use. You can email the assignment in any of the below methods.
+The completed assignment should be emailed to us. You can email the assignment in any of the below methods.
 
 ### Preferred Mode
-Host the application on heroku.com using the free plan. Email us the the link for the application.
-
-### Alternate Mode 1
-You should preferably commit the PHP code and sql file to a repository on github.com and send us the link to the repository. 
-
-### Alternate Mode 2
-Otherwise, you can attach a zip file containing the code and sql file. 
+You should commit the PHP code file to a repository on github.com and send us the link to the repository. 
 
 -----------------------
 
-The completed assignment should be sent to recruit@tekditechnologies.com with the subject line PHP Developer Assignment 1
+The completed assignment should be sent to recruit@tekditechnologies.com with the subject line -
+
+< Your Name > - PHP Developer Assignment 2
 
 In the email, also include the approximate number of hours you spent for this assignment.
