@@ -13,6 +13,11 @@
         "id": 3,
         "parent": 1,
         "name": "Laptops"
+      },
+      {
+        "id": 7,
+        "parent": 1,
+        "name": "Storage"
       }
     ]
   },
@@ -30,6 +35,11 @@
         "id": 6,
         "parent": 4,
         "name": "Non-fiction"
+      },
+      {
+        "id": 8,
+        "parent": 4,
+        "name": "Food & Lifestyle"
       }
     ]
   }
