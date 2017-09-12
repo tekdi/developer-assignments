@@ -15,11 +15,3 @@ The completed assignment should be emailed to us. You can email the assignment i
 
 ### Preferred Mode
 You should commit the PHP code file to a repository on github.com and send us the link to the repository. 
-
------------------------
-
-The completed assignment should be sent to recruit@tekditechnologies.com with the subject line -
-
-< Your Name > - PHP Developer Assignment 2
-
-In the email, also include the approximate number of hours you spent for this assignment.
