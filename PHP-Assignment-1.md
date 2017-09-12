@@ -26,9 +26,3 @@ Host the application on heroku.com using the free plan. Email us the the link fo
 
 ### Alternate Method
 You should commit the PHP code and sql file to a repository on github.com and send us the link to the repository. 
-
------------------------
-
-The completed assignment should be shared with recruit@tekditechnologies.com with the subject line PHP Developer Assignment 1
-
-In the email, also include the approximate number of hours you spent for this assignment.
