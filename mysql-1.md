@@ -14,16 +14,16 @@ Some sample data for you to use
 | Product | Quantity Bought | Price |
 | ------  | ----------      | ----- |
 | Earphones | 1 to 10 | 500 |
-| Earphones | 11 to 50 | 485 |
-| Earphones | 51 to 200 | 475 |
-| Earphones | 201 to 1000 | 450 |
+|  | 11 to 50 | 485 |
+|  | 51 to 200 | 475 |
+|  | 201 to 1000 | 450 |
 | Memory Card | 1 to 50 | 1000 |
-| Memory Card | 51 to 200 | 950 |
-| Memory Card | 201 to 1000 | 900 |
+|  | 51 to 200 | 950 |
+|  | 201 to 1000 | 900 |
 | Hammer | 1 to 5 | 250 |
-| Hammer | 6 to 50 | 240 |
-| Hammer | 51 to 200 | 230 |
-| Hammer | 201 to 1000 | 220 |
+|  | 6 to 50 | 240 |
+|  | 51 to 200 | 230 |
+|  | 201 to 1000 | 220 |
 
 2. Write SQL queries to get the following information
 - Name of the most expensive product
