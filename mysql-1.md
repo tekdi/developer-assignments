@@ -1,4 +1,4 @@
-> Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+> Bad programmers worry about the code. Good programmers worry about data structures and their relationships. - 
 _Linus Torvalds_
  	
 Relational data is one of the pillars of applications. Picking the right data structure and relationships during application design is a skill, or rather an art that is important to acquire. This challenge will help you demonstrate the same.
