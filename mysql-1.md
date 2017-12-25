@@ -11,7 +11,7 @@ Relational data is one of the pillars of applications. Picking the right data st
 
 Some sample data for you to use
 
-| Product | Quantity Bought | Price |
+| Product | Quantity Bought | Unit Price |
 | ------  | ----------      | ----- |
 | Earphones | 1 to 10 | 500 |
 |  | 11 to 50 | 485 |
