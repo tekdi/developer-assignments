@@ -26,8 +26,8 @@ Some sample data for you to use
 |  | 201 to 1000 | 220 |
 
 2. Write SQL queries to get the following information
-- Name of the most expensive product
-- Name of the cheapest product
+- Name of the most expensive product(s)
+- Name of the cheapest product(s)
 - Per item price for 75 memory cards
 - Per item price for 6 hammers
 
