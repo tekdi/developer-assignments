@@ -3,11 +3,10 @@ The Joomla coding test will help you demonstrate proficiency in Joomla developme
 
 ## Assignment
 Create a simple shopping cart extension that has the following areas
-- Manage products in the Joomla Admin
-- View orders in the Joomla Admin
-- List of products in the frontend
-- Add to Cart (This should be AJAX)
-- Cart Page
+- Admin - Manage products
+- Frontend - List of products
+- Frontend - Add to Cart (This should be AJAX)
+- Frontend - Cart Page
 - Cart module showing total amount and count of items in cart
 - Ensure that the component has good looking URLs by creating a router
 
