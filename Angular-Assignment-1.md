@@ -7,13 +7,13 @@ The most common use of Angular Frontends is using CRUD APIs to save and view dat
 We want you to create a Angular application that has the following areas. You may use any CSS like bootstrap to make the pages look nice.
 
 ### Form to create a new Person
-- The form should have fields for name, email, date of birth, avatar URL and country
+- The form should have fields for `name`, `email`, `dob`, `avatar` and `country`
 
 ### List of Persons
-- On this page, show the name, email, image and age (not date of birth) of the person
+- On this page show the Name, Email, Avatar and Age (not date of birth) of the person
 - Clicking on the name of any person should open the form to edit the details
 
-Note : You DO NOT need to create any API. The API is already available here - https://tekdi-challenges.appspot.com/
+Note : You DO NOT need to create any API. The API is already available here - https://documenter.getpostman.com/view/3129705/RWTpsGbZ
 
 
 # Assessment Criteria
