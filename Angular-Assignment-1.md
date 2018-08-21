@@ -10,7 +10,7 @@ We want you to create a Angular application that has the following areas. You ma
 - The form should have fields for `name`, `email`, `dob`, `avatar` and `country`
 
 ### List of Persons
-- On this page show the Name, Email, Avatar and Age (not date of birth) of the person
+- On this page show the Name, Email, Avatar and Age (not date of birth) of the person. To show the age, you should create a pipe.
 - Clicking on the name of any person should open the form to edit the details
 - Show the list in a "card" format rather than a simple list
 
