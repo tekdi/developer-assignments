@@ -14,7 +14,7 @@ We want you to create a Angular application that has the following areas. You ma
 - Clicking on the name of any person should open the form to edit the details
 - Show the list in a "card" format rather than a simple list
 
-Note : You DO NOT need to create any API. The API is already available here - https://documenter.getpostman.com/view/3129705/RWTpsGbZ
+Note : You DO NOT need to create any API. The API is already created. The details are available here - https://documenter.getpostman.com/view/3129705/RWTpsGbZ
 
 
 # Assessment Criteria
