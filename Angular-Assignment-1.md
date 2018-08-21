@@ -12,6 +12,7 @@ We want you to create a Angular application that has the following areas. You ma
 ### List of Persons
 - On this page show the Name, Email, Avatar and Age (not date of birth) of the person
 - Clicking on the name of any person should open the form to edit the details
+- Show the list in a "card" format rather than a simple list
 
 Note : You DO NOT need to create any API. The API is already available here - https://documenter.getpostman.com/view/3129705/RWTpsGbZ
 
