@@ -12,15 +12,15 @@ We want you to create a Angular application that has the following areas. You ma
 ### List of Persons
 - On this page show the Name, Email, Avatar and Age (not date of birth) of the person. To show the age, you should create a pipe.
 - Clicking on the name of any person should open the form to edit the details
-- Show the list in a "card" format rather than a simple list
+- Show the list in a "card" format rather than a simple list. (CardView should be a custom component with input parameters).
 
 Note : You DO NOT need to create any API. The API is already created. The details are available here - https://documenter.getpostman.com/view/3129705/RWTpsGbZ
 
 
 # Assessment Criteria
-Code quality of the Angular Code
-Code quality of the HTML and CSS if any
-Look and feel of the form and list pages
+- Code quality of the Angular Code.
+- Code quality of the HTML and CSS if any.
+- Look and feel of the form and list pages.
 
 # Deliverable
 Create a repository in your github account and commit the code into that repository. Send us the link to the repository. 
